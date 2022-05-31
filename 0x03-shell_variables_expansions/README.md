@@ -1,1 +1,1 @@
-0 - alias  => Create a script that creates an alias name ls value: rm *
+Project dealing with shell variables 
